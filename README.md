@@ -9,9 +9,9 @@ of challenging theories and myths and of critically discussing them" (Karl Poppe
 Human:
 <pre>
   Can we by a cooperative conversation figure out the roots of the deficiencies 
-  in the theories instead of "challenging" those theories? Then by this reasoning 
-  we will demonstrate the path from the state of confusion and misunderstanding 
-  to the state of clarity and explainable belief.
+  in the theories instead of "challenging" those theories? Then by means of this 
+  reasoning we will demonstrate the path from the state of confusion and 
+  misunderstanding to the state of clarity and explainable belief.
 </pre>
 Machina:
 <pre>
