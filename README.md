@@ -7,9 +7,7 @@ of passing on a theory or a myth by founding a new tradition—the tradition
 of challenging theories and myths and of critically discussing them" (Karl Popper)
 </pre>
 Human:
->Can we by a cooperative conversation figure out the roots of the deficiencies   in the theories instead of "challenging" those theories? Then by means of this 
-  reasoning we will demonstrate the path from the state of confusion and 
-  misunderstanding to the state of clarity and explainable belief.
+>Can we by a cooperative conversation figure out the roots of the deficiencies in the theories instead of "challenging" those theories? We can also reason about the ways to transform the original set of presuppositions and the methods of proof used to justify the theory. Then by this reasoning we will demonstrate the path from the state of confusion and misunderstanding to the state of clarity and explainable belief.
 
 Machina:
 >Yes, a cooperative and constructive conversation can indeed focus on identifying
