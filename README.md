@@ -41,7 +41,6 @@ Machina:
   >9. <b>Educational Endeavor:</b> Approach the conversation as an educational 
   endeavor where all participants aim to learn and develop a deeper 
   comprehension of the subject matter.
-  
   >By following this approach, you can work towards a state of clarity and 
   explainable belief, where theories are continuously refined and improved to 
   better reflect reality. This cooperative and constructive method can be more 
