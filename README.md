@@ -38,4 +38,5 @@ Machina:
   better reflect reality. This cooperative and constructive method can be more 
   productive and conducive to the advancement of knowledge compared to a 
   confrontational or purely challenging approach.
+
 Here I'm trying to get the right instructions for steps in the language or the machine. These are the 'formulas' of the steps.
