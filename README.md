@@ -39,4 +39,4 @@ Machina:
   productive and conducive to the advancement of knowledge compared to a 
   confrontational or purely challenging approach.
 
-Here I'm trying to get the right instructions for steps in the language or the machine. These are the 'formulas' of the steps.
+Here I'm trying to get the right instructions for steps as they sound in the language of the machine. These are the 'formulas' of the steps.
